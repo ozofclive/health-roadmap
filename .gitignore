@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+.build/
+.swiftpm/
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+!.env.example
+clinical-content/UK_Preventive_Health_Evidence_Database_v6_Personalisation_Engine.xlsx
