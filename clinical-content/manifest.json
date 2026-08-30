@@ -1,0 +1,10 @@
+{
+  "file": "UK_Preventive_Health_Evidence_Database_v6_Personalisation_Engine.xlsx",
+  "source_format": "xlsx",
+  "transport_encoding": "base64-chunked",
+  "parts": 10,
+  "size_bytes": 81092,
+  "sha256": "89821567c8a49dd65f356141120138034b3be4b18783634d16c5c88d029f4048",
+  "clinical_source_role": "Authoritative V1 seed clinical source of truth",
+  "instructions": "Reconstruct only via scripts/prepare_clinical_content.sh and do not proceed if validation fails."
+}
